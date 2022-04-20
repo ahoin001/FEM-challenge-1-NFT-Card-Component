@@ -1,0 +1,93 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  height: 100vh;
+  background-color: hsl(217, 54%, 11%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+}
+
+.container {
+  background-color: hsl(216, 50%, 16%);
+  width: 375px;
+  display: flex;
+  flex-direction: column;
+  padding: 1.2rem 0.7rem;
+  border-radius: 10px;
+}
+
+.card-text-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-img {
+  width: 340px;
+  height: 300px;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.container h2 {
+  font-weight: 600;
+  color: hsl(0, 0%, 100%);
+}
+
+.container p {
+  color: hsl(215, 51%, 70%);
+}
+
+.info-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container .currency {
+  color: hsl(178, 100%, 50%);
+}
+
+.container .time-left {
+  color: hsl(215, 51%, 70%);
+}
+
+.container .subheading {
+  display: flex;
+}
+
+.container .subheading {
+  display: flex;
+}
+
+.creator {
+  /* background-color: beige; */
+  display: flex;
+  align-items: center;
+}
+
+.creator_name--soft-blue {
+  color: hsl(215, 51%, 70%);
+}
+
+.creator > img {
+  display: inline;
+  width: 35px;
+  align-self: start;
+  margin-right: 10px;
+}
+
+hr {
+  margin: 5px 0;
+  border: 1px solid hsl(215, 32%, 27%);
+}
+
+.creator_name--soft-blue--white {
+  color: hsl(0, 0%, 100%);
+}
