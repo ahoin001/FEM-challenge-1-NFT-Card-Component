@@ -98,7 +98,7 @@ body {
 .container .currency {
   font-size: 1rem;
   color: hsl(178, 100%, 50%);
-  flex: 1 0 auto;
+  /* flex: 1 0 auto; */
 }
 
 .eth-label{

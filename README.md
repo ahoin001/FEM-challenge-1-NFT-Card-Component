@@ -55,6 +55,6 @@ Seom things I learned during this project were
 
 ## Problems I Had
 
-    I realzied I was adding padding and assigning hard coded widths too soon. Next challenge I
+I realzied I was adding padding and assigning hard coded widths too soon. Next challenge I
 
 will be more focused on laying out the pieces and then putting the finishing touches when I can see the bigger picture. Instead of preemptively trying to predict how to design each piece of the component as I go
